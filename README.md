@@ -1,19 +1,18 @@
 <div align="center">
 
-# Hi, I'm Khizar 👋
+# 👋 Hi, I'm Khizar Dev
 
-### Full-Stack Developer • SaaS Builder • AI/ML Enthusiast
+### Full-Stack Developer · SaaS Builder · AI/ML Enthusiast
 
-<p>
-I build modern, scalable, and visually polished digital products.
-From premium web experiences to full-stack SaaS applications and AI-powered solutions,
-I enjoy turning ideas into products that solve real problems.
-</p>
+I build **modern, scalable, and visually polished digital products** — from full-stack SaaS applications and developer tools to AI-powered solutions.
 
 <br/>
 
 <a href="https://github.com/Khizar-dev01">
-  <img src="https://img.shields.io/badge/GitHub-Khizar--dev01-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/followers/Khizar-dev01?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Khizar-dev01?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Khizar-dev01?label=GitHub%20Stars&style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -24,11 +23,13 @@ I enjoy turning ideas into products that solve real problems.
 
 ```text
 💻 Full-Stack Developer focused on modern web technologies
-🚀 Building scalable SaaS products and developer tools
-🤖 Exploring Artificial Intelligence and Machine Learning
+🚀 Building SaaS products and developer tools
+🤖 Exploring AI, Machine Learning & intelligent applications
 🎨 Passionate about premium UI/UX and modern web experiences
-📈 Continuously learning, building, and improving
+🧠 Constantly learning, experimenting and improving
 ```
+
+I enjoy taking ideas from **concept → architecture → development → deployment** and turning them into polished, usable products.
 
 ---
 
@@ -37,29 +38,27 @@ I enjoy turning ideas into products that solve real problems.
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css" />
 </p>
 
 ### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mysql,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,postgresql,prisma" />
 </p>
 
 ### AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-**Currently exploring:**
-
-`Machine Learning` • `Data Science` • `AI Systems` • `Predictive Analytics`
+`Scikit-learn` · `Pandas` · `NumPy` · `Machine Learning` · `Predictive Analytics`
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker" />
 </p>
 
 ---
@@ -68,59 +67,84 @@ I enjoy turning ideas into products that solve real problems.
 
 ## 🚀 LaunchPad — SaaS Boilerplate
 
-A modern full-stack SaaS boilerplate designed to help developers build and launch products faster.
+A modern full-stack SaaS foundation designed to help developers build and launch products faster.
 
-**Built with:**
+**Built with**
 
-`Next.js` • `TypeScript` • `Tailwind CSS` • `Prisma` • `PostgreSQL`
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Prisma` · `PostgreSQL`
 
 ### Highlights
 
-* 🔐 Authentication System
-* 💳 SaaS Billing Architecture
-* 📊 Modern Dashboard
-* 🎨 Premium UI
-* ⚡ Production-Ready Architecture
-* 🛠️ Developer-Friendly Structure
+* 🔐 Authentication architecture
+* 💳 SaaS billing architecture
+* 📊 Modern dashboard
+* 🎨 Premium responsive UI
+* ⚡ Scalable application structure
+* 🛡️ Security-focused development
+* 🧩 Developer-friendly architecture
+
+🌐 **Live Demo**
+
+https://launchpad-saas-boilerplate.vercel.app/
 
 ---
 
-## 📊 Smart Stock Management & Prediction System
+## 📦 Smart Stock Management & Prediction System
 
-An intelligent inventory management system designed to manage stock and support demand prediction.
+An intelligent inventory management system combining stock management with machine-learning-based demand prediction.
 
 ### Highlights
 
-* 📦 Inventory Management
-* 📈 Demand Forecasting
-* 🤖 Machine Learning Models
-* 📊 Data Analysis
-* ⚙️ Automated Predictions
+* 📦 Inventory management
+* 📈 Demand forecasting
+* 🤖 Machine-learning models
+* 📊 Data analysis
+* ⚙️ Automated predictions
+* 📉 Demand-based insights
+
+🔗 **Repository**
+
+https://github.com/Khizar-dev01/Smart-Stock-Management-Prediction-System
 
 ---
 
 ## 💎 Nexora — Premium Modern Web UI
 
-A premium modern frontend template focused on high-quality design and user experience.
+A premium modern frontend template focused on polished interfaces, responsive layouts and reusable components.
 
 ### Highlights
 
 * ✨ Modern UI/UX
-* 🎨 Premium Visual Design
-* 📱 Responsive Layout
-* ⚡ Fast Performance
-* 🧩 Reusable Components
+* 🎨 Premium visual design
+* 📱 Responsive layouts
+* ⚡ Performance-focused frontend
+* 🧩 Reusable components
+* 🌐 Modern web experience
 
 ---
 
-## 🧠 Currently Working On
+# 🧠 Currently Working On
 
 ```text
-🚀 Building scalable SaaS applications
-🤖 Exploring AI-powered applications
-💻 Improving full-stack development skills
-📦 Creating high-quality developer products
+🚀 Scalable SaaS applications
+🤖 AI-powered applications
+💻 Advanced full-stack development
+🎨 Premium web experiences
+📦 Developer-focused digital products
 ```
+
+---
+
+# 🎯 My Development Focus
+
+| Area               | Focus                                |
+| ------------------ | ------------------------------------ |
+| 🌐 Full-Stack      | Modern production-ready applications |
+| 🚀 SaaS            | Scalable product architecture        |
+| 🤖 AI/ML           | Intelligent & predictive systems     |
+| 🎨 UI/UX           | Premium digital experiences          |
+| 🧰 Developer Tools | Useful tools & reusable systems      |
+| ⚡ Performance      | Fast and efficient applications      |
 
 ---
 
@@ -128,68 +152,60 @@ A premium modern frontend template focused on high-quality design and user exper
 
 <div align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Khizar-dev01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=Khizar-dev01&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
 
-<img
-height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Khizar-dev01&theme=transparent&hide_border=true"
-/>
-
-</div>
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khizar-dev01&layout=compact&theme=transparent&hide_border=true"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khizar-dev01&layout=compact&hide_border=true&theme=transparent" height="170" />
 
 </div>
 
 ---
 
-# 🧩 Development Philosophy
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Khizar-dev01/Khizar-dev01/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+# 💡 Development Philosophy
 
 > **Build with purpose. Design with intention. Ship with confidence.**
 
-I believe great software should combine:
+Great software isn't only about writing code.
+
+I believe strong products combine:
 
 ```text
 ⚡ Performance
-🎨 Great Design
+🎨 Design
 📈 Scalability
 🛡️ Security
-🧠 Intelligent Solutions
+🧠 Intelligence
+🧩 Maintainability
 ```
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
-I'm always interested in:
+I'm interested in:
 
-* 💻 Software Development
+* 💻 Full-Stack Development
 * 🚀 SaaS Products
 * 🤖 Artificial Intelligence
 * 🎨 Modern Web Experiences
-* 🤝 Interesting Collaborations
+* 🧰 Developer Tools
+* 🤝 Interesting collaborations
 
-<p>
-
-<a href="https://github.com/Khizar-dev01">
-<img src="https://img.shields.io/badge/GitHub-Khizar--dev01-181717?style=for-the-badge&logo=github" />
-</a>
-
-</p>
-
----
+<br/>
 
 <div align="center">
 
-### ⚡ Building the future, one project at a time.
+### ⚡ Build. Learn. Ship. Repeat.
 
-<img src="https://komarev.com/ghpvc/?username=Khizar-dev01&label=Profile%20Views&color=555555&style=flat" />
+**Khizar Dev**
 
 </div>
